@@ -1,5 +1,5 @@
 # When_We_Meet
-Solve how long can we meet and what is the train we should take.<br>
+Solve how long we can meet and what is the train we should take.<br>
 Sorry, now i am finding input file (time schedule of the trains).<br>
 
 # Purpose
